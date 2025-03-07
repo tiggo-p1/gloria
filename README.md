@@ -1,4 +1,3 @@
 # gloria
 nissan
 nissansinho
-ni
